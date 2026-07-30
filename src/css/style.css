@@ -1,0 +1,20 @@
+  
+.border-sky-200{
+    border-color: #7dd3fc;
+}
+.border-yellow-300{
+    border-color: #fcd34d;
+}
+#all-recipes-section .grid-cols-2 img.w-40 {
+  width: 30%;
+}
+.w-220px{
+  width: 220px;
+} 
+.h-220px{
+  height: 220px;
+}
+.product-category-btn.active{
+    background:#10b981;
+    color:#fff !important;
+}
